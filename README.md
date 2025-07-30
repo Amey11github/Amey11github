@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **Bachelor of Engineering in Computer Engineering** from Dr. D Y Patil College, Pune  
+- 🎓 completed **Bachelor of Engineering in Computer Engineering** from Dr. D Y Patil College of Engineering and innovation,Talegaon , Pune  
 - 💻 Passionate about **Java backend development**, Spring Boot, microservices, and **cloud technologies (AWS/Azure)**
 - ☁️ Experienced with deploying scalable applications on **AWS** using EC2, S3, RDS, Lambda
 - 👨‍💻 Previously interned at **Acmegrade** and **Elite Softwares**
